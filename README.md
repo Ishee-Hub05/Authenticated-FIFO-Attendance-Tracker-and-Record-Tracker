@@ -3,9 +3,13 @@ A Python-based desktop application that securely manages student attendance usin
 
 🚀 Features
 Secure user registration and login
+
 Password recovery using security questions
+
 FIFO-based attendance storage (chronological order guaranteed)
+
 Add attendance for current or skipped dates
+
 View attendance by date or recent records
 Course and subject management per user
 Local file-based storage (no external database required)
