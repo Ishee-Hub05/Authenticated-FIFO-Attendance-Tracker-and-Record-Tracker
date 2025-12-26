@@ -30,7 +30,7 @@ FIFO Data Structure
 Understand and implement the FIFO data structure in a real-world application
 Gain hands-on experience with Python GUI development using Tkinter
 Learn file handling using JSON and text files
-Implement basic authentication and validation mechanisms
+Implement basic authentication and validation mechanisms\n
 Develop a modular and user-friendly desktop application
 
 ▶️ How to Run
