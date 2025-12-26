@@ -1,4 +1,4 @@
-\Authenticated FIFO Attendance Tracker and Record Keeper
+#Authenticated FIFO Attendance Tracker and Record Keeper  
 A Python-based desktop application that securely manages student attendance using the FIFO (First-In-First-Out) data structure. Built with Tkinter, the system ensures attendance records are stored and displayed in proper chronological order, even when backdated entries are added.
 
 🚀 Features  
